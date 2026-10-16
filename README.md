@@ -58,9 +58,9 @@ A comparison of managed enterprise big data platforms, lakehouses, and distribut
 
 ## 💻 Open-Source Distributed Computing & Big Data Frameworks
 
-Active, battle-tested open-source frameworks for distributed computing, real-time stream processing, open lakehouse formats, and data orchestration. Ranked in descending order by **GitHub Star Count** ⭐.
+Active, battle-tested open-source frameworks for distributed computing, real-time stream processing, open lakehouse formats, and data orchestration. Ranked in descending order by **GitHub Stars_Count** ⭐.
 
-| Project & Repository | Stars | Category & License | Core Highlights & Architectural Focus |
+| Project & Repository | GitHub_Stars | Category & License | Core Highlights & Architectural Focus |
 | :--- | :--- | :--- | :--- |
 | **[Apache Superset](https://github.com/apache/superset)** [![Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers) | 75,000+ | Data Exploration & BI (Apache-2.0) 📊 | Modern enterprise-ready business intelligence web application and visualization platform that connects natively to nearly every SQL-speaking big data engine. |
 | **[ClickHouse](https://github.com/ClickHouse/ClickHouse)** [![Stars](https://img.shields.io/github/stars/ClickHouse/ClickHouse?style=social&color=white)](https://github.com/ClickHouse/ClickHouse/stargazers) | 50,000+ | Real-time Columnar OLAP (Apache-2.0) ⚡ | High-performance open-source columnar database management system delivering sub-second analytical SQL queries over trillions of rows. |
@@ -113,7 +113,7 @@ Contributions are warmly welcome! 🙌
 
 1. 🍴 Fork the repository.
 2. 📝 Add or update entries in [README.md](file:///C:/Users/ishan/Documents/Projects/Awesome-Big-Data-Frameworks/README.md) following the existing tabular structure.
-3. 🔎 Include: Product/Project Name, Official URL, Pricing / Star Badge, Limits, and a factual technical description.
+3. 🔎 Include: Product/Project Name, Official URL, Pricing / Stars_Badge, Limits, and a factual technical description.
 4. 🚀 Submit a Pull Request with a clear description of your contribution.
 
 ---
