@@ -58,7 +58,7 @@ A comparison of managed enterprise big data platforms, lakehouses, and distribut
 
 ## 💻 Open-Source Distributed Computing & Big Data Frameworks
 
-Active, battle-tested open-source frameworks for distributed computing, real-time stream processing, open lakehouse formats, and data orchestration. Ranked in descending order by **GitHub Stars_Count** ⭐.
+Active, battle-tested open-source frameworks for distributed computing, real-time stream processing, open lakehouse formats, and data orchestration. Ranked in descending order by **GitHub_Stars_Count** ⭐.
 
 | Project & Repository | GitHub_Stars | Category & License | Core Highlights & Architectural Focus |
 | :--- | :--- | :--- | :--- |
